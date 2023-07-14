@@ -1,0 +1,81 @@
+.custom-grid > .col-1 {
+  flex-basis: 6.25%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 6.25%;
+}
+
+.custom-grid > .col-2 {
+  flex-basis: 12.5%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 12.5%;
+}
+
+.custom-grid > .col-3 {
+  flex-basis: 18.75%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 18.75%;
+}
+
+.custom-grid > .col-4 {
+  flex-basis: 25%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 25%;
+}
+
+.custom-grid > .col-5 {
+  flex-basis: 31.25%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 31.25%;
+}
+
+.custom-grid > .col-6 {
+  flex-basis: 37.5%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 37.5%;
+}
+
+.custom-grid > .col-7 {
+  flex-basis: 43.75%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 43.75%;
+}
+
+.custom-grid > .col-8 {
+  flex-basis: 50%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 50%;
+}
+
+.custom-grid > .col-9 {
+  flex-basis: 56.25%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 56.25%;
+}
+
+.custom-grid > .col-10 {
+  flex-basis: 62.5%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 62.5%;
+}
+
+.custom-grid > .col-11 {
+  flex-basis: 68.75%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 68.75%;
+}
+
+.custom-grid > .col-12 {
+  flex-basis: 75%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 75%;
+}
+
+.custom-grid > .col-13 {
+  flex-basis: 81.25%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 81.25%;
+}
+
+.custom-grid > .col-14 {
+  flex-basis: 87.5%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 87.5%;
+}
+
+.custom-grid > .col-15 {
+  flex-basis: 93.75%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 93.75%;
+}
+
+.custom-grid > .col-16 {
+  flex-basis: 100%; /* Atur lebar kolom menjadi 1/8 dari lebar kontainer */
+  max-width: 100%;
+}
+
+/*# sourceMappingURL=main.css.map */
